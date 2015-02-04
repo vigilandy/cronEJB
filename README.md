@@ -1,2 +1,2 @@
 # cronEJB
-add support fro cron expression to EJB ScheduleExpression
+add support for cron expression to EJB ScheduleExpression
